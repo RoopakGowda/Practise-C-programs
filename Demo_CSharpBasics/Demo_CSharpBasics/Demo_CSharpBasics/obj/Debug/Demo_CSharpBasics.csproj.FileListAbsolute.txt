@@ -1,0 +1,6 @@
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\bin\Debug\Demo_CSharpBasics.exe.config
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\obj\Debug\Demo_CSharpBasics.csprojResolveAssemblyReference.cache
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\bin\Debug\Demo_CSharpBasics.exe
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\bin\Debug\Demo_CSharpBasics.pdb
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\obj\Debug\Demo_CSharpBasics.exe
+C:\Users\susantkumars\Desktop\Demo_CSharpBasics\Demo_CSharpBasics\obj\Debug\Demo_CSharpBasics.pdb

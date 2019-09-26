@@ -1,0 +1,12 @@
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.exe.config
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.exe
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.pdb
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.csprojResolveAssemblyReference.cache
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.exe
+C:\Users\susantkumars\Desktop\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.pdb
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.exe.config
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.exe
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.pdb
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.exe
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\bin\Debug\Demo_Operators.pdb
+D:\.NET TUT\ASSIGNMENTS\Demo_Operators\Demo_Operators\Demo_Operators\obj\Debug\Demo_Operators.csprojResolveAssemblyReference.cache
